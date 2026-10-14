@@ -1,0 +1,17 @@
+body {
+    background-color: #000ac3;
+}
+.letra {
+    color:white;
+    font-size: 20px;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: azure;
+}
+p {
+    color: lightgray;
+    font-size: 10px;
+}
